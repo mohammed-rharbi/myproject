@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+//find the largest number in serie
+
+
 int main (){
 
 
@@ -21,7 +24,6 @@ if(num[i]<num[j]){
 }
 
 }
-
 
 for(int i=0;i<5;i++){
 
